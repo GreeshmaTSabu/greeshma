@@ -1,0 +1,101 @@
+body{
+	background-color: grey;
+}
+p{
+	margin-left: 60px;
+}
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 60px;
+}
+.mainBody{
+	margin-top: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.underlineLevel1{
+	width: 85%;
+	height: 2px; 
+	size: 1px; 
+	background-color: black;
+}
+.underlineLevel2{
+	width: 90%;
+	height: 2px; 
+	size: 1px; 
+	background-color: black;
+	margin-left: 60px;
+	opacity: 0.5;
+	margin-bottom: 10px;
+
+}
+.underLineLevel3{
+	width: 85%;
+	height: 2px; 
+	size: 1px; 
+	background-color: black;
+	margin-left: 0px;
+}	
+.headerSection {
+  width: 100%;
+  display: flex;
+  background-color:   #ffccff;
+}
+.secColumn{
+  margin-left: 0px;
+}
+#name{
+	font-family: 'Dosis', sans-serif;
+	font-size: 40px;
+}
+#detail{
+	margin: 50px;
+	text-align: justify;
+}
+.experienceSection{
+	background-color: white;
+	padding-right: 80px;
+	padding-top: 30px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.firstTdWidth{
+	width: 30%;
+	padding-left: 60px;
+	padding-bottom: 60px;
+}
+
+.secTdWidth{
+	width: 50%;
+	margin-left: 20px;
+	padding-top: 50px;
+}
+.workTitle{
+	font-family: 'Roboto Slab', serif;
+	font-weight: bold;
+}
+.workSecTitle{
+	margin-top: -15px;
+	font-family: 'Maven Pro', sans-serif;
+	font-style: italic;
+}
+.workDetails{
+	margin-top: -15px;
+	margin-bottom: 0px;
+	text-align: justify;
+}
+.skillsSection{
+	background-color: white;
+	padding-left: 50px;
+	padding-right: 80px;
+	padding-top: 30px;
+	margin: 0px;	
+}
+.footerSection{
+  	background-color:  #ffccff;
+  	padding: 10px;
+}
